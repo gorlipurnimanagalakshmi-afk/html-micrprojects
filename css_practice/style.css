@@ -1,0 +1,25 @@
+.box{
+    border-width: 5px;
+    border-style: solid;
+    border-color: blueviolet;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: antiquewhite;
+}
+.rounded-button{
+    border:2px solid #1e90ff;
+    border-radius:15px;
+    padding:10px 20px;
+    color: #1e90ff;
+    font-size: 16px;
+    cursor: pointer;
+    transition:background 3s;
+
+
+}
+.rounded-button:hover{
+    background-color: orange;
+    color:white;
+}
