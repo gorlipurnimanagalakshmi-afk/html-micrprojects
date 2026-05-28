@@ -38,16 +38,16 @@ Repository Structure
 
 html-Microprojects/
 │
-├── 01-calculator
-├── 02-login-page
-├── 03-portfolio
-├── 04-weather-app
-├── 05-todo-list
-├── 06-digital-clock
-├── 07-landing-page
-├── 08-quiz-app
-├── 09-notes-app
-└── 10-music-player
+├── 01-Click to visible letters
+├── 02-My Profile
+├── 03-Name Tag Sticker
+├── 04-Coin flip
+├── 05-Copy to clipboard application
+├── 06-drag-and-drop
+├── 07-drop animation
+├── 08-smoke effect
+├── 09-temperature converter
+└── 10-timeline
 
 Learning Outcome
 
